@@ -15,8 +15,7 @@ Usage is pretty simple, drag a picture into the page
 
 and once it’s loaded press Pop!
 
-![](https://github.com/elektronaut1/pop/blob/master/description/howTo2.png "Example")
-
+![](https://github.com/elektronaut1/pop/blob/master/description/howTo2.jpg "Example")
 ---
 
 ![](https://github.com/elektronaut1/pop/blob/master/description/HowTo3.jpg "Example")
